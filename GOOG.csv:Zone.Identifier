@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://ca.finance.yahoo.com/quote/GOOG/history/
-HostUrl=https://query1.finance.yahoo.com/v7/finance/download/GOOG?period1=1092873600&period2=1713225600&interval=1d&events=history&includeAdjustedClose=true
